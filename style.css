@@ -1,0 +1,59 @@
+html{
+    background-color: maroon;
+}
+body{
+    margin: 25px auto;
+    padding: 15px 75px;
+    width: 600px;
+    background-color: white;
+    border-radius: 25px;
+    font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3{
+    font-family: 'Maven Pro', sans-serif;
+}
+.bold{
+    font-weight: bold;
+}
+.calc{
+    border: 1px solid black;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+.img{
+    text-align: center;
+}
+div{
+    border: 1px solid grey;
+    background-color: rgb(235, 235, 235);
+    padding: 10px 50px;
+    margin: 25px auto;
+}
+.CALCB{
+    font-variant: small-caps;
+    background-color: #808000 ;
+    color: white;
+    padding: 5px 15px;
+    font-size: 18px;
+    border: none;
+    height: 35px;
+}
+h1{
+    margin: 25px auto;
+    padding-top: 25px;
+    color: #808000;
+}
+.Q,h2,h3{
+    color: maroon;
+    font-weight: bold;
+}
+p{
+    letter-spacing: 0.3px;
+}
+img:hover{
+    border: 1px solid black;
+    transition: 0.5s;
+}
+button:hover{
+    cursor: pointer;
+}
